@@ -1,0 +1,198 @@
+[          
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"title":"Red Carpet Real Estate",
+            "desc":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station.",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Orpington NW1",
+			"picture":"../images/list/p-11.jpg",
+            "plan":"../images/list/p-18.png",
+            "map":"../images/list/map.png",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            },
+            "images": [
+              "../images/list/p-11.jpg",
+              "../images/list/p-12.jpg",
+              "../images/list/p-13.jpg",
+              "../images/list/p-14.webp",
+              "../images/list/p-15.webp",
+              "../images/list/p-16.jpg",
+              "../images/list/p-17.webp"
+            ]
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"title":"Airmount Properties",
+            "desc":"Presented in excellent decorative order throughout is this two double bedroom,two bathroom, garden flat.",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"../images/list/p-21.jpg",
+            "plan":"../images/list/p-28.jpg",
+            "map":"../images/list/map.png",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            },
+            "images": [
+              "../images/list/p-21.jpg",
+              "../images/list/p-22.jpg",
+              "../images/list/p-23.jpg",
+              "../images/list/p-24.jpg",
+              "../images/list/p-25.jpg",
+              "../images/list/p-26.webp",
+              "../images/list/p-27.jpg"
+            ]
+        },
+        {
+            "id":"prop3",
+			"type":"House",
+            "bedrooms":6,
+			"price":400000,
+			"title":"The Real Estate Corner",
+            "desc":"This contemporary city hideaway features open-concept living,high-end finishes.",
+			"description":"This contemporary city hideaway features open-concept living, high-end finishes, and spectacular cityscape views. It's a refuge for metropolitan inhabitants with a taste for luxury, with cutting-edge amenities.",
+			"location":"5698 Zirak Road, Liverpool BR3",
+			"picture":"../images/list/p-31.jpg",
+            "plan":"../images/list/p-38.jpeg",
+            "map":"../images/list/map.png",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":17,
+                "year":2022
+            },
+            "images": [
+              "../images/list/p-31.jpg",
+              "../images/list/p-32.webp",
+              "../images/list/p-33.webp",
+              "../images/list/p-34.webp",
+              "../images/list/p-35.webp",
+              "../images/list/p-36.webp",
+              "../images/list/p-37.webp"
+            ]
+        },
+        {
+            "id":"prop4",
+			"type":"Apartment",
+            "bedrooms":4,
+			"price":600000,
+			"title":"Herringbone Realty",
+            "desc":"This big suburban home is ideal for growing families because it has many bedrooms, close to outstanding schools.",
+			"description":"This big suburban home is ideal for growing families because it has many bedrooms, a fenced lawn, and is close to outstanding schools. Enjoy the peace and quiet of a nice community while being only minutes from downtown amenities.",
+			"location":"24 Mooker Market, Birmingham NW9",
+			"picture":"../images/list/p-41.jpg",
+            "plan":"../images/list/p-48.jpg",
+            "map":"../images/list/map.png",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"June",
+                "day":14,
+                "year":2021
+            },
+            "images": [
+              "../images/list/p-41.jpg",
+              "../images/list/p-42.jpg",
+              "../images/list/p-43.jpg",
+              "../images/list/p-44.jpg",
+              "../images/list/p-45.jpg",
+              "../images/list/p-46.jpg",
+              "../images/list/p-47.jpg"
+            ]
+        },
+        {
+            "id":"prop5",
+			"type":"House",
+            "bedrooms":2,
+			"price":550000,
+			"title":"Brick Lane Realty",
+            "desc":"This energy-efficient home was built with the environment in mind and it has solar panels.",
+			"description":"This energy-efficient home was built with the environment in mind, and it has solar panels, a rainwater collecting system, and smart home technologies. Accept sustainable living without sacrificing comfort or style.",
+			"location":"210 Montreal Road, London BR7",
+			"picture":"../images/list/p-51.jpg",
+            "plan":"../images/list/p-58.jpg",
+            "map":"../images/list/map.png",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"April",
+                "day":11,
+                "year":2022
+            },
+            "images": [
+              "../images/list/p-51.jpg",
+              "../images/list/p-52.jpg",
+              "../images/list/p-53.webp",
+              "../images/list/p-54.webp",
+              "../images/list/p-55.jpg",
+              "../images/list/p-56.jpg",
+              "../images/list/p-57.jpg"
+            ]
+        },
+        {
+            "id":"prop6",
+			"type":"Flat",
+            "bedrooms":3,
+			"price":400000,
+			"title":"Banyon Tree Realty",
+            "desc":"In this contemporary home within an exclusive gated neighborhood, luxury meets security.",
+			"description":"In this contemporary home within an exclusive gated neighborhood, luxury meets security. It's a retreat for those who appreciate both luxury and safety, with high-end finishes, a private courtyard, and community amenities.",
+			"location":"56 Liverpool, South Wales BR2",
+			"picture":"../images/list/p-61.jpg",
+            "plan":"../images/list/p-68.jpg",
+            "map":"../images/list/map.png",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"May",
+                "day":14,
+                "year":2023
+            },
+            "images": [
+              "../images/list/p-61.jpg",
+              "../images/list/p-62.jpg",
+              "../images/list/p-63.jpg",
+              "../images/list/p-64.jpg",
+              "../images/list/p-65.jpg",
+              "../images/list/p-66.jpg",
+              "../images/list/p-67.jpg"
+            ]
+        },
+        {
+            "id":"prop7",
+			"type":"Flat",
+            "bedrooms":5,
+			"price":650000,
+			"title":"Highrises Realty",
+            "desc":"This sleek downtown condo offers the best of urban living with modern design, high ceilings.",
+			"description":"This sleek downtown condo offers the best of urban living. It's the ideal property for people who crave the vitality of city living, with modern design, high ceilings, and proximity to trendy local facilities..",
+			"location":"210 Zirak Road, London BR6",
+			"picture":"../images/list/p-71.jpg",
+            "plan":"../images/list/p-78.jpg",
+            "map":"../images/list/map.png",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"December",
+                "day":25,
+                "year":2022
+            },
+            "images": [
+              "../images/list/p-71.jpg",
+              "../images/list/p-72.webp",
+              "../images/list/p-73.jpg",
+              "../images/list/p-74.jpg",
+              "../images/list/p-75.jpg",
+              "../images/list/p-76.jpg",
+              "../images/list/p-77.jpg"
+            ]
+        }
+]

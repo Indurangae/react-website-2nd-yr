@@ -1,0 +1,43 @@
+
+.EmptyTitle {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    font-size: 1.1rem;
+}
+h2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.clearbtn {
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.contaner1{
+    max-width: 530px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.1);
+}
+.contaner1 img {
+    height: 120px;
+    width: 180px;
+}
+.contaner2 {
+    display: flex;
+}
+.contaner2 button{
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.contaner3 {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+

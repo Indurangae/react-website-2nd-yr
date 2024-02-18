@@ -1,0 +1,112 @@
+
+.hero {
+  background-image: url("../../../../public/images/banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 92vh;
+  width: 100%;
+}
+.hero .container {
+  padding-top: 12%;
+}
+.hero h1 {
+  color: #6e0000;
+  font-size: 60px;
+}
+.hero p {
+  color: black;
+  opacity: 0.8;
+}
+form {
+  background-color: #fff;
+  border-radius: 5px;
+  margin-top: 50px;
+  padding: 0 20px;
+}
+form input {
+  padding: 10px;
+  width: 100%;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  margin-top: 5px;
+  border-radius: 5px;
+}
+form span {
+  font-size: 17px;
+  color: black;
+}
+input::placeholder {
+  font-size: 14px;
+  color: grey;
+}
+form .box {
+  padding: 15px;
+  border-left: 1px solid rgba(128, 128, 128, 0.2);
+}
+form .box:nth-child(1) {
+  border-left: none;
+}
+form h4 {
+  font-weight: 500;
+}
+
+
+.template_Container{
+  display: grid;
+  grid-template-columns: repeat(3, 350px);
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.template_Container .template{
+  background-color: white;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  gap: 20px;
+  box-shadow: 20px 20px 50px grey;
+  border-radius: 10px;
+  transition: transform .8s;
+}
+.template_Container .template:hover {
+  transform: scale(1.05);
+}
+.template_Container .template img{
+  height: 210px;
+  width: 340px;
+}
+.template_Container .template .location{
+  color: #72809d;
+}
+.template_Container .template .lstline{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+@media screen and (max-width: 800px) {
+  .hero .container {
+    padding-top: 30%;
+  }
+  form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  form .box {
+    border-left: none;
+  }
+  form input {
+    width: 100%;
+  }
+  
+}
